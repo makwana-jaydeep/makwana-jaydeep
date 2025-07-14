@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer science 
 - 🌱 I’m currently learning B.tech in computer engineering
 - 💞️ I’m looking to collaborate on Any online plateform
-- 📫 How to reach me , 2101030400151@silveroakuni.ac.in
+- 📫 How to reach me , jaydeepmakwana316@gmail.com
 
 <!---
 makwana-jaydeep/makwana-jaydeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
