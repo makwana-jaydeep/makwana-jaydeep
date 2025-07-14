@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @makwana-jaydeep
-- 👀 I’m interested in Computer science 
-- 🌱 I’m currently learning B.tech in computer engineering
+- 👀 I’m interested in Computer science and Artificial Intelligence
+- 🌱 I’ve completed my B.tech in computer engineering
+- 🎓 I'm currently pursuing my M.Tech in Data Science and AI from IITM
 - 💞️ I’m looking to collaborate on Any online plateform
 - 📫 How to reach me , jaydeepmakwana316@gmail.com
 
